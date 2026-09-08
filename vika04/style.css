@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+   
+}
+
+header {
+    text-align: center;
+    padding: 24px;
+}
+
+.card {
+    display: inline-block;
+    gap: 20px;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 20px auto; 
+
+}
+
+.card {
+    flex: 1;
+    background-color: #701515;
+    border: 1px solid #ccc;
+    padding: 20px;
+
+}
+
+.card {
+    margin-top: 0;
+}
+
+
+

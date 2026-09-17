@@ -1,0 +1,31 @@
+body{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin:20px;
+background-color: rgb(26, 103, 180);
+}
+
+header{
+    text-align: center;
+    padding:24px;
+}
+
+.cards{
+display:flex;
+gap: 20px; 
+justify-content:center;
+max-width:1000px; 
+margin: 20px auto;
+}
+
+.card {
+flex:1;
+background-color: rgb(234, 10, 55);
+border: 1px solid #ee5d5d; 
+padding:20px;
+}
+
+.card h2{
+   margin: top 0; 
+   color: #4842eb;
+}
+

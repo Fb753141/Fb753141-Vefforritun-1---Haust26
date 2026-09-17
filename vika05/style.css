@@ -24,13 +24,13 @@ header {
 .idCard {
     flex: 1;
     background-color: #701515;
-    border: 1px solid #ccc;
+    border: 1px solid #e76363;
     padding: 20px;
 }
 
 .card h2 {
     margin-top: 0;
-    color: rgb(152, 24, 24);
+    color: rgb(237, 14, 14);
 }
 
 

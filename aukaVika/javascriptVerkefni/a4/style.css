@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+margin: 12px auto;
+font-family: Arial, Helvetica, sans-serif;
+padding: 24px;
+background: #3f10e714;
+color: cornflowerblue;
+}
+
+main {
+ width:min(80%, 650px); 
+ margin: 12px auto;
+ padding: 24px; 
+ border-radius: 12px;
+ background: darkblue;
+}
+
+h1 {
+    margin-top: 12px auto;
+}
+
+button,
+font {
+    font: initial;
+}
+
+button {
+  padding: 18px 24px;  
+  border: #3b07f614;
+  border-radius: 12px;
+  cursor: pointer; 
+}
